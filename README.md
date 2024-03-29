@@ -8,7 +8,7 @@
 I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native, and Firebase.
 
 - 🔭 I'm a software developer at InnoTech Company In Egypt 
-- 🔍 I have a live app -As a team with my collaborative frinds- 
+- 🔍 As a team with my collaborative friends, We have a live app :
   - E-commerce App for Lavish shop (https://lavishshop.co)
 
 - 🔭 I’m currently working on ...
