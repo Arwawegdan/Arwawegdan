@@ -5,7 +5,7 @@
   
   <img src="https://github.com/Arwawegdan/Arwawegdan/blob/main/profile.png" align="right" width="25%"/>
 
-Welcome to my portfolio! I'm an experienced ASP.NET Software Engineer with a passion for developing robust and scalable applications. With a background in Computer Engineering and years of hands-on experience in the field, I bring a blend of technical expertise and practical knowledge to every project I undertake. Some Technologies I enjoy working with include c#, Asp.net, BlazorWebAssembly, Sql and Nosql databases. 
+I'm an experienced ASP.NET Software Engineer with a passion for developing robust and scalable applications. With a background in Computer Engineering and years of hands-on experience in the field, I bring a blend of technical expertise and practical knowledge to every project I undertake. Some Technologies I enjoy working with include c#, Asp.net, BlazorWebAssembly, Sql and Nosql databases. 
 
 
 - 🔭 I'm a software developer at InnoTech Company In Egypt 
