@@ -8,10 +8,10 @@
 I'm an experienced ASP.NET Software Engineer with a passion for developing robust and scalable applications. With a background in Computer Engineering and years of hands-on experience in the field, I bring a blend of technical expertise and practical knowledge to every project I undertake. Some Technologies I enjoy working with include c#, Asp.net, BlazorWebAssembly, Sql and Nosql databases. 
 
 
-- 🔭 I'm a software developer at InnoTech Company In Egypt 
-- 🔍 As a team with my collaborative friends, We have a live app :
+- I'm a software developer at InnoTech Company In Egypt 
+- As a team with my collaborative friends, We have a live app :
   - E-commerce App for Lavish shop 
-- 🌱 I’m currently learning Reactjs to reinforce my front end Skills.
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: arwa.wegdan2000@gmail.com
-- 😄 Pronouns: She/Her
+-  I’m currently learning Reactjs to reinforce my front end Skills.
+-  I’m looking to collaborate on ...
+-  How to reach me: arwa.wegdan2000@gmail.com
+-  Pronouns: She/Her
