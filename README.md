@@ -12,6 +12,5 @@ I'm an experienced ASP.NET Software Engineer with a passion for developing robus
 - As a team with my collaborative friends, We have a live app :
   - E-commerce App for Lavish shop 
 -  I’m currently learning Reactjs to reinforce my front end Skills.
--  I’m looking to collaborate on ...
 -  How to reach me: arwa.wegdan2000@gmail.com
 -  Pronouns: She/Her
